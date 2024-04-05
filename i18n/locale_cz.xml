@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<locale>cz</locale>
+    <translationContributors>JanSe84</translationContributors>
+    <texts>
+        <text name="AFC_DailyLabel"                     text="Denní spotřeba" />
+        <text name="AFC_YearlyLabel"                    text="Roční spotřeba" />
+    </texts>
+</l10n>
